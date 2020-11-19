@@ -1,5 +1,4 @@
 {
-    "python.dataScience.jupyterServerURI": "local",
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
         "*.tcc": "cpp",
@@ -56,5 +55,6 @@
         "initializer_list": "cpp",
         "typeindex": "cpp",
         "variant": "cpp"
-    }
+    },
+    "jupyter.jupyterServerType": "local"
 }
